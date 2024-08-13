@@ -1,7 +1,7 @@
 ### Flask Hello World with Docker
 This is a simple Flask application that provides a custom welcome page when accessed. It is containerized using Docker and can be easily deployed to cloud platforms like Render.
 
-### This app is deployed on Render. You can view the live version at:
+This app is deployed on Render. You can view the live version at:
 https://flask-hello-world.onrender.com
 
 ### Docker Commands
