@@ -4,7 +4,7 @@ This is a simple Flask application that provides a custom welcome page when acce
 ### This app is deployed on Render. You can view the live version at:
 https://flask-hello-world.onrender.com
 
-## Docker Commands
+### Docker Commands
 ### Build the Docker Image
 
 To build the Docker image for this Flask app, run the following command:
